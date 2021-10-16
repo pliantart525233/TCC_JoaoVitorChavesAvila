@@ -1,0 +1,52 @@
+
+p {
+
+    font-size: x-large;
+  
+    color: white;
+  
+  }
+  
+  body{
+  
+      background-color: rgb(0, 0, 0)
+      
+  }
+  
+  body > header{
+  
+    display: flex;
+  
+    justify-content: space-between;
+  
+    align-items: center;
+  
+    background-color: rgb(0, 60, 255)
+      
+  }
+  
+  a {
+  
+    color: white;
+  
+  }
+  
+  ab {
+  
+    font-size: xx-large;
+  
+    color: white;
+  
+  }
+  
+  #titulo {
+  
+    font-size: xxx-large;
+  
+    justify-content: center;
+  
+    color: white;
+  
+  }
+  
+    
